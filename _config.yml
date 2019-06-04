@@ -8,7 +8,7 @@ title:               Brajesh
 tagline:             ''
 description:         ''
 url:                 https://bkumar12888.github.io
-baseurl:             ''
+baseurl:             'https://bkumar12888.github.io'
 paginate:            5
 
 # About/contact
